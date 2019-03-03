@@ -1,14 +1,10 @@
 ﻿using SharpDX.XInput;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace X360Ctrl.Example
 {
-    internal class Program
+    internal static class Program
     {
         private static void Main()
         {
