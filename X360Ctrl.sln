@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X360Ctrl", "X360Ctrl\X360Ctrl.csproj", "{B327A091-FA22-4208-8680-C442BDA4B480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X360Ctrl.Example", "X360Ctrl.Example\X360Ctrl.Example.csproj", "{B2F3B119-3780-4337-8B53-4175BAC4FC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B327A091-FA22-4208-8680-C442BDA4B480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B327A091-FA22-4208-8680-C442BDA4B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B327A091-FA22-4208-8680-C442BDA4B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B327A091-FA22-4208-8680-C442BDA4B480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F3B119-3780-4337-8B53-4175BAC4FC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F3B119-3780-4337-8B53-4175BAC4FC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F3B119-3780-4337-8B53-4175BAC4FC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F3B119-3780-4337-8B53-4175BAC4FC26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB40651-E3D7-4C1D-90AC-4EEF881CEF8D}
+	EndGlobalSection
+EndGlobal
