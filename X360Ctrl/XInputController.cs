@@ -100,11 +100,11 @@ namespace X360Ctrl
         /// </summary>
         public bool Update()
         {
-            if (!_controller.IsConnected)
-            {
-                // No Updates Controller is not connected
-                return false;
-            }
+            //            if (!_controller.IsConnected)
+            //            {
+            //                // No Updates Controller is not connected
+            //                return false;
+            //            }
 
             // Get State
             _gamepad = _controller.GetState().Gamepad;

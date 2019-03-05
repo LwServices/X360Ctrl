@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("X360Ctrl")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("XBox 360 Controller Class, provides Events")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Lw-Services")]
 [assembly: AssemblyProduct("X360Ctrl")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]

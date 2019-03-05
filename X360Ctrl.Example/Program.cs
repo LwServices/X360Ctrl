@@ -32,8 +32,10 @@ namespace X360Ctrl.Example
                 {
                     Console.WriteLine("Controller update Failed");
                 }
-
-                Console.WriteLine(x360ctrl.ToString());
+                else
+                {
+                    Console.WriteLine(x360ctrl.ToString());
+                }
                 Thread.Sleep(100);
             } while (keyChar != 'x');
         }

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/LwServices/X360Ctrl/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/LwServices/X360Ctrl</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Xbox 360 Controller Wrapper/Helper Class, Provide Button pressed Events</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Xbox 360</tags>
+  </metadata>
+</package>
